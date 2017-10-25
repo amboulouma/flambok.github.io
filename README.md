@@ -1,4 +1,4 @@
 # flambok.github.io
 This is a project of my personal website.
 
-You can find the preview right here : [Flambok](flambok.github.io)
+You can find the preview right here : [Flambok](https://flambok.github.io/)
